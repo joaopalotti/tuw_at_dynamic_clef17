@@ -1,0 +1,314 @@
+<topics>
+<topic num='4'>
+<cat>health</cat>
+<query>quit smoking</query>
+<desc>Your friend would like to quit smoking. You would like to provide him with relevant information about: different ways to quit smoking, programs available to help quit smoking, benefits of quitting smoking, second effects of quitting smoking, using hypnosis to quit smoking, using the cold turkey method to quit smoking</desc>
+<sections>
+<section>Side effects</section>
+<section>Comparison of success rates</section>
+<section>Special populations</section>
+<section>Factors affecting success</section>
+<section>Production</section>
+</sections>
+</topic>
+<topic num='5'>
+<cat>comparison</cat>
+<query>face transplants</query>
+<desc>Suppose you are writing an article about face transplants. You want general information about face transplants and how face transplants affect the lives of patients. Find web pages about face transplants.</desc>
+<sections>
+<section>Types of donor</section>
+<section>Society and culture</section>
+<section>Research</section>
+<section>Structure</section>
+<section>Function</section>
+</sections>
+</topic>
+<topic num='7'>
+<cat>political</cat>
+<query>Kursk</query>
+<desc>In 2000, the Russian nuclear submarine Kursk sank in the Barents Sea. You want to try to understand: How did the political climate in Russia at the time contribute to the accident and exacerbate its effects? Find web pages that explain how the sinking related to Russian politics.</desc>
+<sections>
+<section>Administrative and municipal status</section>
+<section>Submarine recovery</section>
+<section>Official inquiry results</section>
+<section>Economy</section>
+<section>Politics</section>
+</sections>
+</topic>
+<topic num='8'>
+<cat>informational</cat>
+<query>Kursk sinking</query>
+<desc>You heard something about a Russian submarine Kursk sinking today, and want to search to know more details about this event. When did the submarine sink? Who was the on-board commander of the submarine? The submarine was part of which Russian fleet? How many crewmen were lost in the disaster? Which countries expressed regret about the loss? In what sea did the submarine sink? Which U.S. submarines were reportedly in the area?</desc>
+<sections>
+<section>Overview</section>
+<section>Salvage operation</section>
+<section>Alternative explanations</section>
+<section>Official inquiry results</section>
+<section>Survivors in aft compartment</section>
+</sections>
+</topic>
+<topic num='10'>
+<cat>comparison</cat>
+<query>junk food</query>
+<desc>Suppose you are writing an essay about a tax on "junk food".  In your essay, you need to argue whether it's a good idea for a government to tax junk food and high-calorie snacks. Find web pages supporting an argument in favor of a junk food tax.</desc>
+<sections>
+<section>Other uses</section>
+<section>Definitions</section>
+<section>Health effects</section>
+<section>Meaning of the term</section>
+<section>Anti-junk food measures</section>
+</sections>
+</topic>
+<topic num='15'>
+<cat>cost-benefit-comparison</cat>
+<query>voip</query>
+<desc>For economic reasons, you wish to switch from regular phones to internet phone services. You want to know: the best internet phone services, the cheapest internet phone services, the providers of VOIP internet phone services, features that great VOIP services have, providers that offer free calls from the US to some European countries, expert reviews about VOIP providers.</desc>
+<sections>
+<section>Compatibility with traditional analog telephone sets</section>
+<section>Operational cost</section>
+<section>Power requirements</section>
+<section>VoIP performance metrics</section>
+<section>Products and Services</section>
+</sections>
+</topic>
+<topic num='18'>
+<cat>health</cat>
+<query>pseudocyesis</query>
+<desc>Pseudocyesis is the appearance of clinical and/or subclinical signs and symptoms associated with pregnancy when the organism is not actually pregnant. What are the recent advances in understanding the causes of this disorder?</desc>
+<sections>
+<section>Cause</section>
+<section>Other mammals</section>
+<section>Treatment</section>
+<section>Reviews</section>
+<section>Crime</section>
+</sections>
+</topic>
+<topic num='19'>
+<cat>travel</cat>
+<query>Pocono</query>
+<desc>You are planning a winter vacation to the Pocono Mountains region in Pennsylvania in the US. Where will you stay? What will you do while there? How will you get there?</desc>
+<sections>
+<section>Population</section>
+<section>Public education</section>
+<section>Track configuration</section>
+<section>Media</section>
+<section>Notable natives and residents</section>
+</sections>
+</topic>
+<topic num='21'>
+<cat>environmental</cat>
+<query>Hydropower</query>
+<desc>Hydropower is considered one of the renewable sources of energy that could replace fossil fuels. Find information about the efficiency of hydropower, the technology behind it and any consequences building hydroelectric dams could have on the environment.</desc>
+<sections>
+<section>Hydropower types</section>
+<section>History</section>
+<section>Sustainability</section>
+<section>Governance of Hydropower in Scandinavia</section>
+<section>Calculating the amount of available power</section>
+</sections>
+</topic>
+<topic num='22'>
+<cat>informational</cat>
+<query>gun control</query>
+<desc>Amidst all the discussions about gun violence and gun control, you decided to find out whether gun control is a good remedy for mitigating gun violence, and whether banning certain types of guns would be something constitutional. Find web pages about gun control and its effects on gun violence.</desc>
+<sections>
+<section>Import restrictions</section>
+<section>Federal Firearms License (FFL) system</section>
+<section>History</section>
+<section>Regulation of civilian firearms</section>
+<section>Marking requirements</section>
+</sections>
+</topic>
+<topic num='24'>
+<cat>red bull</cat>
+<query>red bull</query>
+<desc>A friend has just advised you not to drink Red Bull. You are curious about what the side effects of Red Bull are? What are its health concerns? Which of its ingredients are problematic? What countries have banned the use of Red Bull? You also want to find information about US laws proposing a ban on drinks like Red Bull.</desc>
+<sections>
+<section>Racing record</section>
+<section>Fictional racing car</section>
+<section>Health effects</section>
+<section>History</section>
+<section>Red Bull buyout and new design</section>
+</sections>
+</topic>
+<topic num='25'>
+<cat>cost-benefit-comparison</cat>
+<query>dehumidifier</query>
+<desc>You would like to buy a dehumidifier. You want to know what makes a dehumidifier good value for money. Find web pages that will help you do so.</desc>
+<sections>
+<section>Overview</section>
+<section>Thermal condensation dehumidification</section>
+<section>Absorption/desiccant dehumidification</section>
+<section>Applications</section>
+<section>Condensate</section>
+</sections>
+</topic>
+<topic num='27'>
+<cat>comparison</cat>
+<query>dehumidifier specs</query>
+<desc>You would like to buy a dehumidifier. What are some of the technical specifications you should be looking at? What is the price range for dehumidifiers? What makes one dehumidifier more expensive than another?</desc>
+<sections>
+<section>Energy performance ratings</section>
+<section>Controversies</section>
+<section>History</section>
+<section>Specifications</section>
+<section>Small business award</section>
+</sections>
+</topic>
+<topic num='29'>
+<cat>informational</cat>
+<query>Bollywood</query>
+<desc>Where is Bollywood located? From what foreign city did Bollywood derive its name? What is the Bollywood equivalent of Beverly Hills? What is Bollywood's equivalent of the Oscars? Where does Bollywood rank in the world's film industries? Who are some of the Bollywood stars?</desc>
+<sections>
+<section>Production</section>
+<section>Sound</section>
+<section>Genre conventions</section>
+<section>Dialogues and lyrics</section>
+<section>Style and format</section>
+</sections>
+</topic>
+<topic num='30'>
+<cat>None</cat>
+<query>Swahili food</query>
+<desc>A friend from Kenya is visiting you and you'd like to surprise him with by cooking a traditional Swahili dish. You would like to search online to decide which dish you will cook at home.</desc>
+<sections>
+<section>Grammar</section>
+<section>Arts and crafts</section>
+<section>Orthography</section>
+<section>Phonology</section>
+<section>Name</section>
+</sections>
+</topic>
+<topic num='31'>
+<cat>travel</cat>
+<query>Churchill Downs</query>
+<desc>You want to know about Churchill Downs. Some of the things you want to know include: the racing schedule at Churchill Downs, the seating chart, the breeders cup races, the Kentucky Derby museum.</desc>
+<sections>
+<section>Economics and stock</section>
+<section>History</section>
+<section>Facilities</section>
+<section>History</section>
+<section>Holdings</section>
+</sections>
+</topic>
+<topic num='35'>
+<cat>political</cat>
+<query>Merck lobbying</query>
+<desc>Merck and Co. is one of the largest pharmaceutical companies in the world, and a major lobbyist in Washington D.C. Find information about specific legislation or policies Merck has lobbied for or against. How has Merck's lobbying affected US policy?</desc>
+<sections>
+<section>Public health</section>
+<section>Society and culture</section>
+<section>Adverse effects</section>
+<section>History</section>
+<section>History and profile</section>
+</sections>
+</topic>
+<topic num='36'>
+<cat>political</cat>
+<query>eurozone crisis</query>
+<desc>Portugal, Spain, Ireland, Greece, and Cyprus are some of the countries that have experienced severe economic downturns during the ongoing Eurozone crisis.  What actions are political leaders in Europe taking to resolve their respective economic troubles?  How are these actions meant to help?</desc>
+<sections>
+<section>Structural problem of Eurozone system</section>
+<section>D</section>
+<section>Controversies</section>
+<section>Loss of confidence</section>
+<section>Proposed long-term solutions</section>
+</sections>
+</topic>
+<topic num='37'>
+<cat>comparison</cat>
+<query>silicone roof</query>
+<desc>What is silicone roof coating? What is it best for? What are other solutions regarding roof coating? What is the best material to use if the purpose is cooling down the roof so that the house temperature remains low?</desc>
+<sections>
+<section>Limitations/Risks</section>
+<section>Application</section>
+<section>Uses</section>
+<section>Benefits</section>
+<section>Comparison with adhesives</section>
+</sections>
+</topic>
+<topic num='42'>
+<cat>health</cat>
+<query>collagen disease</query>
+<desc>A friend of yours was recently diagnosed with a type of collagen vascular disease. You want to find out more about the condition and what impact it may have on your friend's lifestyle, particularly whether they can continue to play sport.</desc>
+<sections>
+<section>Veterinary use</section>
+<section>Chemistry</section>
+<section>Molecular structure</section>
+<section>Medical uses</section>
+<section>Other connective tissue disorders</section>
+</sections>
+</topic>
+<topic num='44'>
+<cat>comparison</cat>
+<query>internet phone</query>
+<desc>You are shopping for an internet phone service. You want to know determine what makes an internet phone service great. Find web pages that will help you make a decision.</desc>
+<sections>
+<section>Compatibility with traditional analog telephone sets</section>
+<section>Operational cost</section>
+<section>Conflict minerals</section>
+<section>Types</section>
+<section>Power requirements</section>
+</sections>
+</topic>
+<topic num='48'>
+<cat>informational</cat>
+<query>evaluating employees</query>
+<desc>You have just been promoted to manager. You are looking for information about the best way to evaluate your employees. Find web pages that will help you perform employee evaluations.</desc>
+<sections>
+<section>Concept of job design</section>
+<section>Limitations</section>
+<section>Techniques for designing jobs</section>
+<section>Merits and demerits</section>
+<section>Process</section>
+</sections>
+</topic>
+<topic num='51'>
+<cat>informational</cat>
+<query>Port Arthur Massacre</query>
+<desc>Where is Port Arthur? When did the massacre occur? What was the final death toll of the massacre? Who was the killer? What was the killer's nationality? What were the names of the victims? What were the nationalities of the victims?</desc>
+<sections>
+<section>Motivation</section>
+<section>Prosecution</section>
+<section>Details of the massacre</section>
+<section>Fatalities</section>
+<section>28 April 1996</section>
+</sections>
+</topic>
+<topic num='53'>
+<cat>cost-benefit-comparison</cat>
+<query>403(b)</query>
+<desc>Suppose you are an employee at a US non-profit organization. You are trying to decide whether to contribute money to your employer-offered 403(b) retirement plan or to a personal IRA (Individual Retirement Account). Find resources that could help you decide which is best for your needs.</desc>
+<sections>
+<section>Regulation</section>
+<section>After-tax contributions</section>
+<section>Compliance</section>
+<section>Communities</section>
+<section>Bankruptcy protection before 2005</section>
+</sections>
+</topic>
+<topic num='56'>
+<cat>travel</cat>
+<query>Pocono mountains</query>
+<desc>You are writing a summary article about the Pocono Mountains region. Find as many relevant articles as you can describing the region, things to see and do there (such as national parks, resorts, shopping, etc), and communities of people living there.</desc>
+<sections>
+<section>Athletics</section>
+<section>Population</section>
+<section>College remediation</section>
+<section>Media</section>
+<section>Notable natives and residents</section>
+</sections>
+</topic>
+<topic num='58'>
+<cat>comparison</cat>
+<query>peer evaluation</query>
+<desc>You are a principal of a high school. You wish to decide whether to emphasize teacher peer evaluation or teachers' evaluation by students. You need information about advantages and disadvantages of each option. Find web pages about their relative benefits.</desc>
+<sections>
+<section>Medical</section>
+<section>Summative evaluation</section>
+<section>Rubrics</section>
+<section>Scholarly</section>
+<section>Course evaluation instruments</section>
+</sections>
+</topic>
+</topics>
